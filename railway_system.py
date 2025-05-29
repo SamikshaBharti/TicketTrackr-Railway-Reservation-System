@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(level = logging.INFO ,format = '%(asctime)s - %(levelname)s - %(message)s')
 
 #MySQL connection parameter
-username = 'user_name   # Replace with actual MySQL username
+username = 'user_name'   # Replace with actual MySQL username
 password = 'password'  # This will ask for a password when you run
 host = 'localhost'           # Use 'localhost' if MySQL is on your machine
 database = 'railway_reservation'
